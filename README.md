@@ -1,48 +1,72 @@
 # Hello World! 👋 I'm Diego Andrés Carmona  
 
-🎓 Systems and Telecommunications Engineer (8th Semester) at Universidad Católica de Pereira.  
-💡 Passionate about **technology, IoT, automation, and software development**.  
-🔧 Skilled in both **hardware** (Arduino, ESP32, sensors) and **software** (web development, backend & frontend).  
-🚀 I love turning innovative ideas into real solutions that combine **engineering, usability, and automation**.  
+🎓 **Systems and Telecommunications Engineer (8th Semester)** at Universidad Católica de Pereira  
+💡 Passionate about **IoT, automation, software development, and real-world problem solving**  
+🚀 Focused on building **innovative, efficient, and impactful solutions** that merge **hardware + software**  
 
 ---
 
 ## 🛠️ Technologies I Work With  
 
-- **Programming Languages:** JavaScript, Java, C++, C#, PHP, HTML5, CSS3  
-- **Frameworks & Libraries:** React, Node.js, Bootstrap, jQuery  
-- **Databases:** MySQL, MongoDB  
-- **Hardware & IoT:** Arduino Nano, ESP32, MQ-135, Ultrasonic Sensors  
-- **Other Tools:** Git, Arduino IDE  
+### 💻 Programming & Web  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)  
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=fff)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=fff)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
+
+### ⚡ Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)  
+
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
+
+### 🤖 Hardware & IoT  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)  
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=fff)  
+![Sensors](https://img.shields.io/badge/Sensors-FF5722?style=for-the-badge&logo=flightradar24&logoColor=fff)  
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=fff)  
 
 ---
 
 ## 🌟 Featured Projects  
 
-🔬 **Thermal Study of Materials for Diverse Applications**  
-Developed a system to analyze thermal properties of materials for engineering use. Integrated C++/Java modules, sensors, and visualization dashboards that improved experimental efficiency.  
-**Technologies:** C++, Java, Sensors  
+🔬 **Thermal Study of Materials**  
+Coded modules in C++ & Java + sensor integration for real-time analysis, boosting efficiency in experimental testing.  
+*Tech:* C++, Java, Sensors  
 
 🕶️ **Smart Glasses for the Visually Impaired**  
-Created wearable glasses using **Arduino Nano + ultrasonic sensors** to detect obstacles within 30cm. Added buzzer alerts and usability interfaces, improving safety and mobility.  
-**Technologies:** Arduino, Ultrasonic Sensors, Buzzer  
+Wearable device with ultrasonic sensors + buzzer alerts using Arduino Nano to improve mobility and safety.  
+*Tech:* Arduino, Ultrasonic, Buzzer  
 
 🛒 **E-commerce Website with Payment Gateway**  
-Designed a complete web platform for a local retail store with **frontend (HTML, CSS, JS, Bootstrap)** and **backend (PHP, MySQL)**. Integrated a secure payment gateway to expand sales channels.  
-**Technologies:** PHP, MySQL, Bootstrap, JavaScript  
+Built a complete web platform with **frontend (HTML, CSS, JS, Bootstrap)** + **backend (PHP, MySQL)**.  
+*Tech:* PHP, MySQL, Bootstrap, JS  
 
 🔥 **Remote Fire Alarm System (MQ-135 + ESP32)**  
-Built a safety system to detect harmful gases and fire risks. Integrated **servo, buzzer, LCD I2C display**, and a **React/Node.js dashboard** for real-time remote monitoring.  
-**Technologies:** ESP32, MQ-135, React, Node.js, LCD I2C  
+Safety system for gas/fire detection with buzzer + servo + LCD I2C, plus a **React/Node.js dashboard**.  
+*Tech:* ESP32, MQ-135, React, Node.js  
 
 ⚙️ **Automated Material Sorting Band**  
-Prototyped an automation system with sensors and mechanical design to classify materials. Reduced manual work and highlighted potential in industrial automation.  
-**Technologies:** Arduino, C++, Sensors  
+Arduino + sensors for material classification, reducing manual labor and highlighting automation potential.  
+*Tech:* Arduino, C++, Sensors  
 
 ---
 
 ## 🎯 What Represents Me  
-I’m driven by **innovation and problem-solving** — every project I create aims to **help people, optimize processes, or bring automation into real life**. Whether it’s wearable tech for accessibility or industrial automation, I focus on **making technology practical and impactful**.  
+
+> 💡 *"Innovation with purpose."*  
+I believe technology should **improve lives, automate processes, and make ideas practical**.  
+From **assistive devices** to **industrial automation**, my work blends **creativity + engineering**.  
 
 ---
 
