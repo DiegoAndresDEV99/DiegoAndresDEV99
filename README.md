@@ -1,40 +1,31 @@
-# Hello World! 👋 I'm Diego Andrés Carmona  
+# 👋 Hello World! I'm Diego Andrés Carmona  
 
 🎓 **Systems and Telecommunications Engineer (8th Semester)** at Universidad Católica de Pereira  
 💡 Passionate about **IoT, automation, software development, and real-world problem solving**  
-🚀 Focused on building **innovative, efficient, and impactful solutions** that merge **hardware + software**  
+🚀 Focused on building **innovative, efficient, and impactful solutions** that merge **engineering + creativity**  
 
 ---
 
-## 🛠️ Technologies I Work With  
+## 🛠️ Technologies  
 
 ### 💻 Programming & Web  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)  
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=fff)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=fff)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff) 
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=coffeescript&logoColor=fff) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff) 
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=fff) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
 
 ### ⚡ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff) 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)  
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
-
-### 🤖 Hardware & IoT  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=fff)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=fff)  
-![Sensors](https://img.shields.io/badge/Sensors-FF5722?style=for-the-badge&logo=flightradar24&logoColor=fff)  
-
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)  
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=fff)  
 
 ---
 
@@ -76,4 +67,3 @@ From **assistive devices** to **industrial automation**, my work blends **creati
 🌐 [GitHub](https://github.com/DiegoAndresDEV99)  
 🌎 Colombia  
 
----
